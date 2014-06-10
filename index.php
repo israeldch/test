@@ -5,7 +5,7 @@
 <link rel="shortcut icon" href="favicon_dgb.ico" type="image/x-icon">
 <noscript><meta http-equiv="refresh" content="0; URL=Indexj.php"/></noscript>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>* * * SISTEMA DE SUSCRIPCIONES * * *</title>
+<title>* * * SISTEMA DE SUSCRIPCIONES 2 * * *</title>
   <style type="text/css"></style>
 <link rel="stylesheet" type="text/css" href="formato.css" />
 </head>
