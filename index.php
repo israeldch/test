@@ -23,6 +23,5 @@
 </td></tr>
 </table>
 <br><br>
-<?include("pie.php");?>
 </body>
 </html>
